@@ -1,4 +1,4 @@
-# Information Visualization Poject
+# Information Visualization Poject 2018
 
 == Setup ==
 
