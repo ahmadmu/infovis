@@ -1,3 +1,6 @@
+# Information Visualization Poject 2018
+
+live: https://ahmadmu.github.io/infovis
 
 == Setup ==
 
