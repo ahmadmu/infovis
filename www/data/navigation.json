@@ -1,0 +1,135 @@
+{ 
+    "anatomy": [
+        {
+            "left": [],
+            "right": [{
+                "title": "Synthese",
+                "path": "/synthesis"
+            }],
+            "up": [],
+            "down": [{
+                "path": "/anatomy/2"
+            }]
+        },
+        {
+            "left": [],
+            "right": [],
+            "up": [{
+                "path": "/anatomy/1"
+            }],
+            "down": [{
+                "path": "/anatomy/3"
+            }]
+        },
+        {
+            "left": [],
+            "right": [{
+                "title": "Resonator",
+                "path": "/resonator"
+            }],
+            "up": [{
+                "path": "/anatomy/2"
+            }],
+            "down": [{
+                "path": "/anatomy/4"
+            }]
+        },
+        {
+            "right": [{
+                "title": "Formant",
+                "path": "/formant"
+            }],
+            "left": [{
+                "title": "Kempelen",
+                "path": "/kempelen"
+            }],
+            "up": [{
+                "path": "/anatomy/3"
+            }],
+            "down": []
+        }
+    ], 
+    "formant": [
+        {
+            "left": [{
+                "title": "Anatomie",
+                "path": "/anatomy/4"
+            }],
+            "right": [{
+                "title": "Synthese",
+                "path": "/synthesis"
+            }]
+        }
+    ],
+    "resonator": [
+        {
+            "left": [{
+                "title": "Anatomie",
+                "path": "/anatomy/3"
+            }],
+            "right": [{
+                "title": "Synthese",
+                "path": "/synthesis"
+            }],
+            "up": [],
+            "down": [{
+                "path": "/resonator/helmholz"
+            }]
+        },
+        {
+            "left": [{
+                "title": "Anatomie",
+                "path": "/anatomy/3"
+            }],
+            "right": [{
+                "title": "Synthese",
+                "path": "/synthesis"
+            }],
+            "up": [{
+                "path": "/resonator"
+            }],
+            "down": [{
+                "path": "/resonator/schaefer"
+            }]
+        },
+        {
+            "left": [{
+                "title":"Anatomie",
+                "path": "/anatomy/3"
+            }],
+            "right": [{
+                "title": "Synthese",
+                "path": "/synthesis"
+            }],
+            "up": [{
+                "path": "/resonator/helmholz"
+            }],
+            "down": []
+        }
+    ],
+    "synthesis": [
+        {
+            "left": [{
+                "title":"Anatomie",
+                "path": "/anatomy"
+            }],
+            "right": [{
+                "title": "Resonator",
+                "path": "/resonator"
+            }, {
+                "title": "Formant",
+                "path": "/formant"
+            }]
+        }
+    ],
+    "kempelen": [
+        {
+            "left": [],
+            "right": [{
+                "title": "Anatomie",
+                "path": "/anatomy/4"
+            }]
+        }
+    ]
+}
+

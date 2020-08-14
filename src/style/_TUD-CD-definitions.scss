@@ -1,0 +1,58 @@
+
+// TU Dresden Corporate Design - 2017
+// nach der Richtlinie zur Webgestaltung (vgl. TUD CI, Dez.7 bzw. MZ)
+// https://tu-dresden.de/tu-dresden/kontakte-services/webauftritt-und-webcms/ressourcen/dateien/webseitenpflege/geschuetzte_dateien/richtlinien-webgestaltung?lang=en
+//
+// Lars Engeln - lars.engeln@tu-dresden.de [Chair of MediaDesign]
+
+// Primär-Farben:
+$TUD-Blau-100:  #152f50; // #002557;
+$TUD-Blau-90:   #143367;
+$TUD-Blau-80:   #1B3D6C;
+$TUD-Blau-70:   #2B4D7C;
+$TUD-Blau-60:   #325483;
+$TUD-Blau-50:   #46658F;
+$TUD-Blau-40:   #5A7094;
+$TUD-Blau-30:   #8494B2;
+$TUD-Blau-20:   #BFC9D7;
+$TUD-Blau-10:   #CFD6E1;
+$TUD-Weiss:     #FFFFFF;
+
+//Sekundärfarben:
+$TUD-Grau-100:  #333333;
+$TUD-Grau-90:   #A1A1A1;
+$TUD-Grau-80:   #C7C7C7;
+$TUD-Grau-70:   #F5F5F5;
+
+//Interaktionsfarbe:
+$TUD-Rot-100:   #B51C1C;
+$TUD-Rot-90:    #DD2727;
+
+
+//Schriften
+
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,900&subset=latin-ext');
+@mixin font-light {
+    font-weight: 300;
+}
+@mixin font-regular {
+    font-weight: 400;
+}
+@mixin font-semibold {
+    font-weight: 600;
+}
+@mixin font-black {
+    font-weight: 900;
+}
+
+@mixin primary-text {
+    font-size: 16px;
+    line-height: 160%;
+    font-family: 'DIN Web', 'din-2014', 'Source Sans Pro', 'Helvetica', 'Arial', sans-serif;
+    @include font-regular();
+}
+@mixin secondary-text {
+    @include primary-text();
+    font-size: 14px;
+    line-height: 140%;
+}

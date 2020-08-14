@@ -1,0 +1,88 @@
+{
+    "id": "anatomy",
+    "title": "ANATOMIE",
+    "pages": [
+        {
+            "id": "1",
+            "title": "EINFÜHRUNG",
+            "description": "Die menschliche Spracherzeugung besteht aus zwei unterscheidbaren Prozessen, der Signalerzeugung und der Modifizierung des Signals.",
+            "infoContent": "Das zugrundeliegende Prinzip der menschlichen Spracherzeugung ist das der Quelle - Filter Theorie, bei dem man von einem obertonreiches Frequenzgemisch, dem Quellsignal, mittels Verstärkung und Abschwächung ein Zielsignal erzeugt => subtraktiver Ansatz.",
+            "assets": [
+                {
+                    "author": "",
+                    "authorLink": "",
+                    "path": "",
+                    "type": ""
+                }
+            ],
+            "webLinks": [
+                {
+                    "url":"http://www.fb10.uni-bremen.de/khwagner/phonetik/kapitel1.aspx",
+                    "description":"weiterführendes Material"
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "title": "DAS GLOTTISSIGNAL",
+            "description": " Glottis ist das Stimmorgan im Kehlkopf und besteht aus den beiden Stimmbändern.",
+            "infoContent": "  Luftstrom veranlasst Schwingung der Stimmbänder, es entsteht das sogenannte Glottis - Signal, das Glottis -Signal hat ein obertonreiches Spektrum, die Funktion der Glottis entspricht somit dem der Quelle aus der Quelle - Filter Theorie .",
+            "assets": [
+                {
+                    "author": "",
+                    "authorLink": "",
+                    "path": "",
+                    "type": ""
+                }
+            ],
+            "webLinks": [
+                {
+                    "url":"http://www.fb10.uni-bremen.de/khwagner/phonetik/kapitel3.aspx#Abschnitt-3-2",
+                    "description":"weiterführendes Material"
+                }]
+
+        },
+        {
+            "id": "3",
+            "title": "DER MUNDRAUM",
+            "description": "Das Glottis - Signal interagiert mit dem Mundraum basierend auf dem Effekt der Resonanz.",
+            "infoContent": "Der Mundraum einem Resonator , dessen Resonatorfrequenz mittels der Artikulatoren, der Zungenstellung  und der Größe und Stellung der Mundöffnung eingestellt werden kann.",
+            "assets": [
+                {
+                    "author": "",
+                    "authorLink": "",
+                    "path": "",
+                    "type": ""
+                }
+            ],
+            "webLinks": [{
+                "url":"https://dood.al/pinktrombone/",
+                "description":"interaktive Mundraumsimulation"
+            },
+            {
+                "url": "http://www.fb10.uni-bremen.de/khwagner/phonetik/kapitel7.aspx",
+                "description":"weiterführendes Material"
+            }]
+
+        },
+        {
+            "id": "4",
+            "title": "DIE ZUNGENSTELLUNG",
+            "description": "Je nach Zungenstellung werden unterschiedliche Frequenzbereiche des Quellsignals verstärkt bzw. abgeschwächt.",
+            "infoContent": "Das Vokaltrapez bietet einen Überblick, welche Zungenstellung für ein vokaltypischen Ton verantwortlich ist, dabei wird sowohl die vertikale als auch horizontale Zungenlage berücksichtigt",
+            "assets": [
+                {
+                    "author": "",
+                    "authorLink": "",
+                    "path": "",
+                    "type": ""
+                }
+            ],
+            "webLinks": [
+                {
+                    "url": "http://www.fb10.uni-bremen.de/khwagner/phonetik/kapitel8.aspx",
+                    "description":"weiterführendes Material"
+                }]
+        }
+    ]
+}

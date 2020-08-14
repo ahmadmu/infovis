@@ -1,0 +1,22 @@
+{
+    "id": "formant",
+    "title": "Formanten",
+    "pages": [
+        {
+            "title": "Formanten",
+            "description": "Vokale werden durch bestimmte Frequenzbereiche, die Formanten, charakterisiert.",
+            "infoContent": "Die beiden tiefsten Formanten (Formanten 1 und 2) sind essenziell für das Verständnis, die restlichen dienen der Klangfarbe.",
+            "assets": [{
+                "author": "",
+                "authorLink": "",
+                "path": "",
+                "type": ""
+            }],
+            "webLinks": [
+                {
+                    "url": "http://www.phonetik.uni-muenchen.de/studium/skripten/SGL/SGLKap2.html",
+                    "description":"weiterführendes Material"
+                }]
+        }
+    ]
+}

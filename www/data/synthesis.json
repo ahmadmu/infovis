@@ -1,0 +1,18 @@
+{
+    "id": "synthesis",
+    "title": "Synthese",
+    "pages": [
+        {
+
+            "title": "Synthese",
+            "description": "Es gibt zwei unterschiedliche Ansätze zur Synthtetisierung der Sprache - Die additive und subtraktive Sprachsynthese.",
+            "infoContent": "Die additive Sprachsynthese: Synthese durch zusammenstellen von Formanten. Die subtraktive Sprachsynthese: Synthese durch Herausfiltern unerwünschter Frequenzen aus einem obertonreichen Freuquenzgemisch",
+            "assets": [{
+                "author": "",
+                "authorLink": "",
+                "path": ""
+            }],
+            "webLinks":[]
+        }
+    ]
+}

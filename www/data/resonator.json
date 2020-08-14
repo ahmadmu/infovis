@@ -1,0 +1,55 @@
+{
+    "id": "resonator",
+    "title": "Resonatoren",
+    "pages": [
+        {
+            "id": "1",
+            "title": "Intro",
+            "description": "Ein Resonator funktioniert nach dem Feder-Masse Prinzip",
+            "infoContent": "Das Feder-Masse Prinzip ist konkret eine Kombination eines masse-behafteten Körpers und einer Feder. Dieser Körper ist zudem mittels der Feder gelagert und ist somit in der Lage mechanische Schwingungen auszuführen. In dem Fall von Resonatoren entspricht die im Hals gelagerte Luft der Masse und die Elastizität des gesamten Luftvolumens der Feder.",
+            "assets": [
+                {
+                    "author": "",
+                    "authorLink": "",
+                    "path": "",
+                    "type": ""
+                }
+            ],
+            "webLinks": []
+        },
+        {
+            "id": "2",
+            "title": "Helmholz",
+            "description": "Von Hermann von Helmholz entwickelte Resonatoren.",
+            "infoContent": "Die Helmholz Resonatoren sind durch folgende Eigenschaften charakterisiert : Die Resonatorfrequenz entspricht einem vokalcharakterisierendem Frequenzbereich. Vokale werden  erzeugt indem man die Funktion des Mundraums nachahmt",
+            "assets": [
+                {
+                    "author": "",
+                    "authorLink": "",
+                    "path": "",
+                    "type": ""
+                }
+            ],
+            "webLinks": [
+                {
+                    "url": "https://www.youtube.com/watch?v=A9XLNH8FPd0",
+                    "description":"Video zur Bedienung der Resonatoren"
+                }]
+        },
+        {
+            "id": "3",
+            "title": "Schaefer",
+            "description": "",
+            "infoContent": "Unterschied zu Helmholtz: Resonatorfrequenz kann mittels Verlängerung des Resonators verändert werden. Daraus ergibt sich anderes Anwendungsfeld. Die Schäfer Resonatoren wurden genutzt, um Frequenzgemische zu analysieren und deren Bestandteile zu extrahieren",
+            "assets": [
+                {
+                    "author": "",
+                    "authorLink": "",
+                    "path": "",
+                    "type": ""
+                }
+            ],
+            "webLinks": []
+        }
+    ]
+}
