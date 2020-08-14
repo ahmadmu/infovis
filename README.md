@@ -1,4 +1,4 @@
-# Information Visualization Poject 2018
+# Information Visualization Poject 2018 - Sprachsynthese
 
 live: https://ahmadmu.github.io/infovis
 
