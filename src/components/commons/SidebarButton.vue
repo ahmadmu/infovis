@@ -34,8 +34,11 @@ export default class Button extends Vue {
 @import '../style/_vars.scss';
 
 .navi {
-    display:flex;
-    justify-content: center ;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
     position: absolute;
     background-color: $TUD-Rot-90;
     color: #fff;
