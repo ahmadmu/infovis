@@ -9,13 +9,13 @@ Development by:
 Graphics by:
 - Maria Kielb
 
-== Setup ==
+## Setup 
 
 1. install node.js & yarn
 2. open powershell (navigated to this repo/folder)
 3. > yarn
 
-== Build ==
+## Build
 1. open powershell (navigated to this repo/folder)
 2. > yarn build
 
