@@ -2,6 +2,13 @@
 
 live: https://ahmadmu.github.io/infovis
 
+Development by:
+- Ahmad Moudallal
+- Fabian Töpfer
+
+Graphics by:
+- Maria Kielb
+
 == Setup ==
 
 1. install node.js & yarn
