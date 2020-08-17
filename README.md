@@ -2,12 +2,10 @@
 
 live: https://ahmadmu.github.io/infovis
 
-Development by:
-- Ahmad Moudallal
-- Fabian Töpfer
-
-Graphics by:
-- Maria Kielb
+by:
+- Ahmad Moudallal (Development, UI & UX)
+- Fabian Töpfer (Development, UI & UX)
+- Maria Kielb (Graphics, UI & UX)
 
 ## Setup 
 
